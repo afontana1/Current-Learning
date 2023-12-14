@@ -45,6 +45,7 @@
 	* [UCLA STATS 205 - Hierarchical Linear Models](https://youtube.com/playlist?list=PLAYxx7zX5F1MUAvvhZQyA4ISyKYuoKdH6&si=Y-TF61b6UGJXQ-k4)
 	* [Applied Hierarchical Modeling in Ecology](https://github.com/mikemeredith/AHM_code)
 	* [Bayesian Hierarchical Modelling course](https://github.com/andrewcparnell/bhm_course)
+6. [Essential Statistics](https://www.youtube.com/playlist?list=PL05umP7R6ij0Gw5SLIrOA1dMYScCx4oXT)
 
 
 ## Risk Management
@@ -82,3 +83,13 @@
 7. [Introduction to Spatial Data Science](https://youtube.com/playlist?list=PLzREt6r1NenmFyTw8v2JZpEE4PZGNi5Ht&si=wlAxTUTeEY5JGRAC)
 6. [Spatial Regression](https://youtube.com/playlist?list=PLzREt6r1Nenkk7x197-CKPFZ0BuAOCRGT&si=23WQG3mnadJId_uD)
 7. [Spatial Cluster Analysis](https://youtube.com/playlist?list=PLzREt6r1Nenk3L0ndufhYuwdrrfZqdsIA&si=f8_62feIMiHvDZ9f)
+
+
+## Machine Learning
+
+1. [Probabilistic Machine Learning -- Philipp Hennig, 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
+2. [Data Compression With Deep Probabilistic Models](https://www.youtube.com/playlist?list=PL05umP7R6ij0Mp1dW2HuXlb-UQIYnv8xK)
+3. [Mathematics for Machine Learning ](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
+4. [Deep Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
+5. [Introduction to Machine Learning — Dmitry Kobak, 2020/21](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
+6. [Statistical Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)

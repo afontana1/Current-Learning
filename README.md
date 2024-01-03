@@ -3,6 +3,8 @@
 ## Definitely Enroll
 
 1. [Model Thinking](https://www.coursera.org/learn/model-thinking)
+2. [Mathematics for Engineers Specialization](https://www.coursera.org/specializations/mathematics-engineers)
+3. [Differential Equations](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
 
 ## Review of Fundamentals
 
@@ -12,6 +14,9 @@
 4. [Object Oriented Systems Analysis and Design (Systems Analysis and Design in a Changing World)](https://youtube.com/playlist?list=PL6XklZATqYx9dj72MKG6wLYjljeB2odra&si=AQhbFkAzij5K1yV_)
 5. [Optimization and simulation](https://youtube.com/playlist?list=PL10NOnsbP5Q5NlJ-Y6Eiup6RTSfkuj1TR&si=8a79czFDBSrTDuIq)
 6. [Computational Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+7. [Differential Equations Part I Basic Theory](https://www.coursera.org/learn/ordinary-differential-equations)
+8. [Differential Equations Part II Series Solutions](https://www.coursera.org/learn/introduction-to-ordinary-differential-equations-part-2)
+9. [Differential Equations Part III Systems of Equations](https://www.coursera.org/learn/differential-equations-part-iii-systems-of-equations)
 
 ## Core Math
 
@@ -46,6 +51,8 @@
 	* [Applied Hierarchical Modeling in Ecology](https://github.com/mikemeredith/AHM_code)
 	* [Bayesian Hierarchical Modelling course](https://github.com/andrewcparnell/bhm_course)
 6. [Essential Statistics](https://www.youtube.com/playlist?list=PL05umP7R6ij0Gw5SLIrOA1dMYScCx4oXT)
+7. [Bayesian Statistics Specialization](https://www.coursera.org/specializations/bayesian-statistics)
+8. [Introduction to Computational Statistics for Data Scientists Specialization](https://www.coursera.org/specializations/compstats)
 
 
 ## Risk Management
@@ -83,6 +90,8 @@
 7. [Introduction to Spatial Data Science](https://youtube.com/playlist?list=PLzREt6r1NenmFyTw8v2JZpEE4PZGNi5Ht&si=wlAxTUTeEY5JGRAC)
 6. [Spatial Regression](https://youtube.com/playlist?list=PLzREt6r1Nenkk7x197-CKPFZ0BuAOCRGT&si=23WQG3mnadJId_uD)
 7. [Spatial Cluster Analysis](https://youtube.com/playlist?list=PLzREt6r1Nenk3L0ndufhYuwdrrfZqdsIA&si=f8_62feIMiHvDZ9f)
+8. [RICEx: Ordinary Differential Equations and Linear Algebra - Part 2](https://www.edx.org/learn/linear-algebra/rice-university-ordinary-differential-equations-and-linear-algebra-part-2?webview=false&campaign=Ordinary+Differential+Equations+and+Linear+Algebra+-+Part+2&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fdifferential-equations)
+9. [RICEx: Ordinary Differential Equations and Linear Algebra - Part 1](https://www.edx.org/learn/linear-algebra/rice-university-ordinary-differential-equations-and-linear-algebra-part-1?webview=false&campaign=Ordinary+Differential+Equations+and+Linear+Algebra+-+Part+1&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fdifferential-equations)
 
 
 ## Machine Learning
@@ -93,3 +102,18 @@
 4. [Deep Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
 5. [Introduction to Machine Learning — Dmitry Kobak, 2020/21](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
 6. [Statistical Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+
+## Applications
+
+1. [Infectious Disease Modelling Specialization](https://www.coursera.org/specializations/infectious-disease-modelling)
+2. [Systems Biology and Biotechnology Specialization](https://www.coursera.org/specializations/systems-biology)
+3. [Simulation and modeling of natural processes](https://www.coursera.org/learn/modeling-simulation-natural-processes)
+4. [Pricing Options with Mathematical Models](https://www.coursera.org/learn/pricing-options-with-mathematical-models)
+5. [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
+6. [GeorgetownX: Mathematical and Computational Methods](https://www.edx.org/learn/math/georgetown-university-mathematical-and-computational-methods?webview=false&campaign=Mathematical+and+Computational+Methods&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fdifferential-equations)
+7. [EPFLx: Computational Neuroscience: Neuronal Dynamics of Cognition](https://www.edx.org/learn/neuroscience/ecole-polytechnique-federale-de-lausanne-computational-neuroscience-neuronal-dynamics-of-cognition?webview=false&campaign=Computational+Neuroscience%3A+Neuronal+Dynamics+of+Cognition&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fdifferential-equations)
+8. [EPFLx: Neuronal Dynamics](https://www.edx.org/learn/neuroscience/ecole-polytechnique-federale-de-lausanne-neuronal-dynamics?webview=false&campaign=Neuronal+Dynamics&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fdifferential-equations)
+9. [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
+10. [Neuroscience and Neuroimaging Specialization](https://www.coursera.org/specializations/computational-neuroscience)
+11. [Game Theory](https://www.coursera.org/learn/game-theory-1)
+12. [Game Theory II: Advanced Applications](https://www.coursera.org/learn/game-theory-2)

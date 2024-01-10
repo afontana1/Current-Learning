@@ -5,6 +5,7 @@
 1. [Model Thinking](https://www.coursera.org/learn/model-thinking)
 2. [Mathematics for Engineers Specialization](https://www.coursera.org/specializations/mathematics-engineers)
 3. [Differential Equations](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
+4. [Circuits and Electronics](https://www.edx.org/xseries/mitx-circuits-and-electronics?webview=false&campaign=Circuits+and+Electronics&source=edx&product_category=xseries&placement_url=https%3A%2F%2Fwww.edx.org%2Fxseries)
 
 ## Review of Fundamentals
 
@@ -59,6 +60,7 @@
 
 1. [Risk Management](https://youtube.com/playlist?list=PLgCR5H4IzggGihtfhTtA0fxGiBU8DMWHq&si=tvZVOVIIwAxgEUyt)
 2. [Quantitative Risk Management](https://youtube.com/playlist?list=PLgCR5H4IzggHyHw8dalrVHqHAqZfmTeWa&si=7GTwP1igwl40effn)
+3. [Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 
 ## Core Systems
 

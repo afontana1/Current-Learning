@@ -25,6 +25,9 @@
     * [Santa Fe Institute Resources](https://www.complexityexplorer.org/explore/resources)
     * [Neil Theise](https://www.neiltheiseofficial.com/)
     * [David Krakauer](https://www.santafe.edu/people/profile/david-krakauer)
+    * [Stuart Kauffman](https://scholar.google.com/citations?user=yoPM0F8AAAAJ&hl=en)
+    * [Geoffrey West](https://www.santafe.edu/people/profile/geoffrey-west)
+    * [Raissa D'Souza](https://scholar.google.com/citations?user=jM23vRsKxuIC&hl=en)
 6. [UCI Hot Cognition Laboratory](https://sites.uci.edu/peterdittolab/), [Questions of Ethics](https://www.ethicscenter.uci.edu/index.php), and [Peter Ditto's](https://scholar.google.com/citations?user=Lv4KzjIAAAAJ&hl=en) Work on Motivated Reasoning
 7. Dr. Ben Goldacre's Investigation and [Simine Vazire's](https://www.simine.com/) into [badscience](https://www.badscience.net/) and the Replication Crisis. Ways of Improving research reliability:
     * [datacarpentry.org](https://datacarpentry.org/)

@@ -8,6 +8,7 @@
 4. [Signals and Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/)
 5. [Essential Numerical Methods](https://ocw.mit.edu/courses/22-15-essential-numerical-methods-fall-2014/)
 6. [Engineering Math: Differential Equations and Dynamical Systems](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
+7. [Differential Equations](https://youtube.com/playlist?list=PLC4YBo93SnyglJxoACLRbpKdrupQOQG22&si=j995AFDSp_fn-Hjc)
 
 ## Modeling
 

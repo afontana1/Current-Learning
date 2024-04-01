@@ -9,6 +9,8 @@
 	* [Applied Hierarchical Modeling in Ecology](https://github.com/mikemeredith/AHM_code)
 	* [Bayesian Hierarchical Modelling course](https://github.com/andrewcparnell/bhm_course)
 5. [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+6. [Drawing Causal Inference from Big Data](https://youtube.com/playlist?list=PLGJm1x3XQeK0NgFOX2Z7Wt-P5RU5Zv0Hv&si=9vMSBGpY-Svkvmnd)
+7. [Time Series Modelling and Analysis](https://youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK&si=RT0zHDs1F3AofYXN)
 
 ## Classes
 

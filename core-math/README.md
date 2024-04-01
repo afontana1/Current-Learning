@@ -8,7 +8,6 @@
 4. [Signals and Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/)
 5. [Essential Numerical Methods](https://ocw.mit.edu/courses/22-15-essential-numerical-methods-fall-2014/)
 6. [Engineering Math: Differential Equations and Dynamical Systems](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
-7. [Mathematical Modeling and Simulation](https://www.youtube.com/playlist?list=PLKR57ZbLAFd7qx7Liej3UIZLuMGO07nj0)
 
 ## Modeling
 
@@ -26,10 +25,3 @@
 4. [Differential Equations Part II Series Solutions](https://www.coursera.org/learn/introduction-to-ordinary-differential-equations-part-2)
 5. [Differential Equations Part III Systems of Equations](https://www.coursera.org/learn/differential-equations-part-iii-systems-of-equations)
 6. [Mathematics for Engineers Specialization](https://www.coursera.org/specializations/mathematics-engineers)
-
-### Discrete Modeling
-
-1. [Basic Modeling for Discrete Optimization](https://www.coursera.org/learn/basic-modeling)
-2. [Solving Algorithms for Discrete Optimization](https://www.coursera.org/learn/solving-algorithms-discrete-optimization)
-3. [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization)
-4. [Advanced Modeling for Discrete Optimization](https://www.coursera.org/learn/advanced-modeling)

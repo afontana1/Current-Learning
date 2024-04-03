@@ -13,6 +13,7 @@
 ## Modeling
 
 - [Math Modeling](https://www.youtube.com/playlist?list=PLXsDp0z6VWFT5ZM86xh8i1AMFYxnrefLk)
+- [Mathematical Modeling and Simulation](https://youtube.com/playlist?list=PLKR57ZbLAFd7qx7Liej3UIZLuMGO07nj0&si=PhBuPgEE_Oj5i7LF)
 
 1. [Model Thinking](https://www.coursera.org/learn/model-thinking)
 2. [EPFLx: Introduction to Discrete Choice Models](https://www.edx.org/learn/discrete-mathematics/ecole-polytechnique-federale-de-lausanne-introduction-to-discrete-choice-models?webview=false&campaign=Introduction+to+Discrete+Choice+Models&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fmathematical-modeling)

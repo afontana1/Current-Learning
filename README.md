@@ -43,7 +43,7 @@
     * [Michael Levin](https://drmichaellevin.org/)
 9. Cultural Evolution: [Richard McElreath](https://xcelab.net/rm/) and [Joseph Henrich](https://heb.fas.harvard.edu/people/joseph-henrich)
 10. Causal Inference: [Donald Rubin](https://en.wikipedia.org/wiki/Donald_Rubin) & [Guido W. Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens) & [marcelo-perraillon](https://clas.ucdenver.edu/marcelo-perraillon/) & [Clark Glymour](https://philpeople.org/profiles/clark-glymour)
-11. [Decision Science Institute](https://decisionsciences.org/) and [The Decision Lab](https://thedecisionlab.com/) especially in [Game Theoretic](https://en.wikipedia.org/wiki/Category:Game_theory) contexts and [Multi Agent Systems](https://en.wikipedia.org/wiki/Category:Multi-agent_systems) under [VUCA](https://en.wikipedia.org/wiki/VUCA) conditions
+11. [Decision Science Institute](https://decisionsciences.org/) and [The Decision Lab](https://thedecisionlab.com/) especially under [VUCA](https://en.wikipedia.org/wiki/VUCA) conditions
     * [Principal Agent Problems](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)
     * [Collective_action_problem](https://en.wikipedia.org/wiki/Collective_action_problem)
     * [Asymmetric Risk](https://asymmetryobservations.com/definitions/asymmetry/asymmetrical-riskreward/)
@@ -51,6 +51,10 @@
     * [Decision theory](https://en.wikipedia.org/wiki/Category:Decision_theory)
 12. [Ray Jackendoff](https://en.wikipedia.org/wiki/Ray_Jackendoff) from the [Center for Cognitive Linguistics](https://sites.tufts.edu/cogstud/) and [George Lakoff](https://george-lakoff.com/),  [Cognitive Science](https://en.wikipedia.org/wiki/Category:Cognitive_science) and [Kenneth D. Forbus](https://users.cs.northwestern.edu/~forbus/) and [Cognitive Modeling](https://en.wikipedia.org/wiki/Cognitive_model)
 13. [Extended Evolutionary Synthesis](https://extendedevolutionarysynthesis.com/)
+14. [Multi Agent Systems](https://en.wikipedia.org/wiki/Category:Multi-agent_systems) and [Game Theoretic Concepts](https://en.wikipedia.org/wiki/Category:Game_theory)
+    * [Prof. Dr. Felix Brandt](https://www.cs.cit.tum.de/en/dss/brandt/) and [Computational Social Choice
+](https://youtube.com/playlist?list=PLOfTMPqb4h4YpejIw7acMsdUnBm51a-FD&si=XztGrBLGOVUHST7q)
+    * [Tim Roughgarden](https://timroughgarden.org/) and [Algorithmic Game Theory](https://timroughgarden.org/f13/f13.html)
 
 ## Online University Programs
 

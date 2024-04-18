@@ -4,5 +4,12 @@
 2. [Solving Algorithms for Discrete Optimization](https://www.coursera.org/learn/solving-algorithms-discrete-optimization)
 3. [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization)
 4. [Advanced Modeling for Discrete Optimization](https://www.coursera.org/learn/advanced-modeling)
-5. [Selected Topics in Decision Modeling](https://youtube.com/playlist?list=PLbRMhDVUMnge0CU8o2gWwKXANADrpTc1q&si=RRDQxDR63uNoK21Q)
-6. [Evolutionary Computation for Single and Multi-Objective Optimization](https://youtube.com/playlist?list=PLwdnzlV3ogoWyi7exLIe26JhueiVQXq_S&si=yp_ZPvxlDseP5C7I)
+4. [Approximation Algorithms Part I](https://www.coursera.org/learn/approximation-algorithms-part-1)
+5. [Approximation Algorithms Part II](https://www.coursera.org/learn/approximation-algorithms-part-2)
+
+## Applications
+
+1. [Selected Topics in Decision Modeling](https://youtube.com/playlist?list=PLbRMhDVUMnge0CU8o2gWwKXANADrpTc1q&si=RRDQxDR63uNoK21Q)
+2. [Evolutionary Computation for Single and Multi-Objective Optimization](https://youtube.com/playlist?list=PLwdnzlV3ogoWyi7exLIe26JhueiVQXq_S&si=yp_ZPvxlDseP5C7I)
+3. [Foundations of Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/boulder-data-structures-algorithms)
+4. [Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)

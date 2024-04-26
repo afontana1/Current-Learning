@@ -7,6 +7,12 @@
 4. [Approximation Algorithms Part I](https://www.coursera.org/learn/approximation-algorithms-part-1)
 5. [Approximation Algorithms Part II](https://www.coursera.org/learn/approximation-algorithms-part-2)
 
+## Operations Research
+
+1. [Operations Research Modeling](https://www.coursera.org/learn/operations-research-modeling)
+2. [Operations Research: Optimization Algorithms](https://www.coursera.org/learn/operations-research-algorithms)
+3. [Operations Research Theory](https://www.coursera.org/learn/operations-research-theory)
+
 ## Applications
 
 1. [Selected Topics in Decision Modeling](https://youtube.com/playlist?list=PLbRMhDVUMnge0CU8o2gWwKXANADrpTc1q&si=RRDQxDR63uNoK21Q)

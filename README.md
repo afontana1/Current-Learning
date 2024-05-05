@@ -42,7 +42,12 @@
     * [Developmental bioelectricity](https://en.wikipedia.org/wiki/Developmental_bioelectricity)
     * [Michael Levin](https://drmichaellevin.org/)
 9. Cultural Evolution: [Richard McElreath](https://xcelab.net/rm/) and [Joseph Henrich](https://heb.fas.harvard.edu/people/joseph-henrich)
-10. Causal Inference: [Donald Rubin](https://en.wikipedia.org/wiki/Donald_Rubin) & [Guido W. Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens) & [marcelo-perraillon](https://clas.ucdenver.edu/marcelo-perraillon/) & [Clark Glymour](https://philpeople.org/profiles/clark-glymour)
+10. Causal Inference
+    * [Donald Rubin](https://en.wikipedia.org/wiki/Donald_Rubin)
+    * [Guido W. Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens)
+    * [marcelo-perraillon](https://clas.ucdenver.edu/marcelo-perraillon/)
+    * [Clark Glymour](https://philpeople.org/profiles/clark-glymour)
+    * [Judea Pearl](https://bayes.cs.ucla.edu/jp_home.html)
 11. [Decision Science Institute](https://decisionsciences.org/) and [The Decision Lab](https://thedecisionlab.com/) especially under [VUCA](https://en.wikipedia.org/wiki/VUCA) conditions
     * [Principal Agent Problems](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)
     * [Collective_action_problem](https://en.wikipedia.org/wiki/Collective_action_problem)

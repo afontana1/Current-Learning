@@ -63,22 +63,14 @@
 
 1. [UCLA Signal Processing and Communications](https://www.msol.ucla.edu/signal-processing-and-communications/)
 2. [UCLA Electrical Engineering](https://www.msol.ucla.edu/engineering-electrical/)
-3. [Michigan Tech Signal and Image Processing — Graduate Certificate](https://www.mtu.edu/engineering/graduate/certificates/signal-processing/)
-4. [NPS Signal Processing Certificate](https://online.nps.edu/-/290-signal-processing-certificate)
-5. [NC State Electrical Engineering Graduate Certificate](https://online-distance.ncsu.edu/program/electrical-engineering/)
-6. [NC State Electrical Engineering Masters](https://www.engineeringonline.ncsu.edu/programs-and-courses/graduate/master-of-science-in-electrical-engineering/)
-7. [Purdue Graduate Certificate in Digital Signal Processing](https://et.iupui.edu/departments/ece/programs/grad/cert-signal)
-8. [Michigan Tech Control Systems Graduate Certificate](https://www.mtu.edu/engineering/graduate/certificates/control-systems/)
-9. [Master of Control Engineering](https://ese.wustl.edu/academics/graduate-programs/masters-and-certificates/Master-of-Control-Engineering.html)
-10. [Sensor Signal and Information Processing (Graduate Certificate)](https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESSSIPGRCT/sensor-signal-and-information-processing-graduate-certificate?init=false&nopassive=true)
-11. [Illinois Tech Control Systems Certificate](https://www.iit.edu/academics/programs/control-systems-certificate)
-12. [UCSD Digital Signal Processing](https://extendedstudies.ucsd.edu/courses-and-programs/digital-signal-processing)
-13. [Purdue Digital Signal Processing](https://engineering.purdue.edu/online/programs/certificate-programs/digital-signal-processing)
-14. [Illinois Tech Certificate in Signal Processing](https://bulletin.iit.edu/graduate/colleges/engineering/ece/signal-processing-certificate/)
-15. [Dynamic Systems—Graduate Certificate](https://www.mtu.edu/engineering/graduate/certificates/dynamic-systems/)
-16. [Missouri S&T Advanced Control Systems](https://distance.mst.edu/distance-programs/distance-graduate-certificates/advanced-control-systems/)
-17. [University of Arizona Master of Science in Electrical and Computer Engineering](https://online.engineering.arizona.edu/master-of-science-in-electrical-and-computer-engineering/)
-18. [ASU Online Master of Science in Engineering in Electrical Engineering](https://asuonline.asu.edu/online-degree-programs/graduate/master-science-engineering-electrical-engineering/)
+3. [Purdue Graduate Certificate in Digital Signal Processing](https://et.iupui.edu/departments/ece/programs/grad/cert-signal)
+4. [Michigan Tech Control Systems Graduate Certificate](https://www.mtu.edu/engineering/graduate/certificates/control-systems/)
+5. [Sensor Signal and Information Processing (Graduate Certificate)](https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESSSIPGRCT/sensor-signal-and-information-processing-graduate-certificate?init=false&nopassive=true)
+6. [Illinois Tech Control Systems Certificate](https://www.iit.edu/academics/programs/control-systems-certificate)
+7. [UCSD Digital Signal Processing](https://extendedstudies.ucsd.edu/courses-and-programs/digital-signal-processing)
+8. [Purdue Digital Signal Processing](https://engineering.purdue.edu/online/programs/certificate-programs/digital-signal-processing)
+9. [Illinois Tech Certificate in Signal Processing](https://bulletin.iit.edu/graduate/colleges/engineering/ece/signal-processing-certificate/)
+10. [Dynamic Systems—Graduate Certificate](https://www.mtu.edu/engineering/graduate/certificates/dynamic-systems/)
 
 ### Computer Science
 
@@ -90,21 +82,13 @@
 
 ### Systems
 
-1. [Drexel Online Certificate Systems Engineering](https://www.online.drexel.edu/online-degrees/engineering-degrees/cert-syse-fund/index.aspx?_gl=1*q9j1hu*_ga*MTAxNDU0ODU3OS4xNzA0ODIyNTAz*_ga_6KJ1PNLE19*MTcwNDgyNTI4OC4yLjEuMTcwNDgyNTI4OS41OS4wLjA.)
-2. [ASU Graduate Certificate in Systems Engineering](https://online.engineering.arizona.edu/graduate-certificate-in-systems-engineering/)
-3. [ASU Online Master of Science in Complex Systems Science](https://asuonline.asu.edu/online-degree-programs/graduate/complex-system-science-masters/)
+1. [ASU Graduate Certificate in Systems Engineering](https://asuonline.asu.edu/online-degree-programs/graduate/master-engineering-area-study-systems-engineering/)
+2. [ASU Online Master of Science in Complex Systems Science](https://asuonline.asu.edu/online-degree-programs/graduate/complex-system-science-masters/)
 
 ### Computational Science
 
 1. [George Mason University Computational Science](https://catalog.gmu.edu/colleges-schools/science/computational-data-sciences/computational-sciences-ms/)
 2. [Georgia Tech Master of Science in Computational Science and Engineering - Online Learning](https://pe.gatech.edu/degrees/computational-science-engineering/online-learning)
 3. [Purdue Computational Engineering](https://engineering.purdue.edu/online/programs/masters-degrees/interdisciplinary-engineering/computational-engineering)
-4. [Mississippi State Master of Science in Computational Engineering](https://www.online.msstate.edu/mscme)
-5. [Stanford Computational and Mathematical Engineering MS Degree](https://online.stanford.edu/programs/computational-and-mathematical-engineering-ms-degree)
-6. [Johns Hopkins Applied and Computational Mathematics Master's Program Online](https://ep.jhu.edu/programs/applied-and-computational-mathematics/)
-7. [Rice Master of Computational Science and Engineering (MCSE) Degree](https://ga.rice.edu/programs-study/departments-programs/engineering/computational-science-engineering/computational-science-engineering-mcse/)
-8. [University of Texas CSEM Master's Program](https://oden.utexas.edu/academics/masters-program/)
-9. [Florida State Masters Degree in Computational Science](https://www.sc.fsu.edu/graduate/ms/computational-science)
-10. [ASU Computational Life Sciences](https://asuonline.asu.edu/online-degree-programs/graduate/computational-life-sciences/)
-11. [Computational Social Science (Graduate Certificate)](https://catalog.gmu.edu/colleges-schools/science/computational-data-sciences/computational-social-science-graduate-certificate/)
-12. [George Mason Bioinformatics and Computational Biology (Graduate Certificate)](https://masononline.gmu.edu/programs/bioinformatics-and-computational-biology-graduate-certificate/?cmgfrm=www.google.com)
+4. [ASU Computational Life Sciences](https://asuonline.asu.edu/online-degree-programs/graduate/computational-life-sciences/)
+5. [Computational Social Science (Graduate Certificate)](https://catalog.gmu.edu/colleges-schools/science/computational-data-sciences/computational-social-science-graduate-certificate/)

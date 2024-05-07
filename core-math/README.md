@@ -1,6 +1,7 @@
 ## Core Math
 
 - [Set Theory and Logic Lectures](https://youtube.com/playlist?list=PLPgKBibhNh73rAqxIaltEHw-qwMJISwOL&si=-pqXp3ibEgDE1w7Y)
+- [Discrete Math (Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc)](https://youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS&si=iaOUBHOngVW7u8wy)
 
 1. [Intro to Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)
 2. [Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)

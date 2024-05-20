@@ -55,6 +55,7 @@
     * [Applied Decision Science](https://www.applieddecisionscience.com/)
     * [Decision theory](https://en.wikipedia.org/wiki/Category:Decision_theory)
     * [Decision Research](https://www.decisionresearch.org/) & [Paul Slovic](https://en.wikipedia.org/wiki/Paul_Slovic)
+    * [Game Theory](https://en.wikipedia.org/wiki/Category:Game_theory)
 12. [Ray Jackendoff](https://en.wikipedia.org/wiki/Ray_Jackendoff) from the [Center for Cognitive Linguistics](https://sites.tufts.edu/cogstud/) and [George Lakoff](https://george-lakoff.com/),  [Cognitive Science](https://en.wikipedia.org/wiki/Category:Cognitive_science) and [Kenneth D. Forbus](https://users.cs.northwestern.edu/~forbus/) and [Cognitive Modeling](https://en.wikipedia.org/wiki/Cognitive_model)
 13. [Extended Evolutionary Synthesis](https://extendedevolutionarysynthesis.com/)
 14. [Multi Agent Systems](https://en.wikipedia.org/wiki/Category:Multi-agent_systems) and [Game Theoretic Concepts](https://en.wikipedia.org/wiki/Category:Game_theory)
@@ -76,6 +77,7 @@
 8. [Purdue Digital Signal Processing](https://engineering.purdue.edu/online/programs/certificate-programs/digital-signal-processing)
 9. [Illinois Tech Certificate in Signal Processing](https://bulletin.iit.edu/graduate/colleges/engineering/ece/signal-processing-certificate/)
 10. [Dynamic Systems—Graduate Certificate](https://www.mtu.edu/engineering/graduate/certificates/dynamic-systems/)
+11. [Signal Processing and Communications](https://www.msol.ucla.edu/signal-processing-and-communications/)
 
 ### Computer Science
 

@@ -17,6 +17,8 @@
 
 1. [Selected Topics in Decision Modeling](https://youtube.com/playlist?list=PLbRMhDVUMnge0CU8o2gWwKXANADrpTc1q&si=RRDQxDR63uNoK21Q)
 2. [Evolutionary Computation for Single and Multi-Objective Optimization](https://youtube.com/playlist?list=PLwdnzlV3ogoWyi7exLIe26JhueiVQXq_S&si=yp_ZPvxlDseP5C7I)
-3. [Foundations of Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/boulder-data-structures-algorithms)
-4. [Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)
-5. [Evolutionary Computation for Single and Multi-Objective Optimization](https://youtube.com/playlist?list=PLwdnzlV3ogoWyi7exLIe26JhueiVQXq_S&si=y9mtBqGzULcgZ7WG)
+3. [Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)
+4. [Evolutionary Computation for Single and Multi-Objective Optimization](https://youtube.com/playlist?list=PLwdnzlV3ogoWyi7exLIe26JhueiVQXq_S&si=y9mtBqGzULcgZ7WG)
+5. [Game Theory](https://www.coursera.org/learn/game-theory-1)
+6. [Game Theory II: Advanced Applications](https://www.coursera.org/learn/game-theory-2)
+7. [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)

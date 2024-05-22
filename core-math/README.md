@@ -28,3 +28,11 @@
 4. [Differential Equations Part II Series Solutions](https://www.coursera.org/learn/introduction-to-ordinary-differential-equations-part-2)
 5. [Differential Equations Part III Systems of Equations](https://www.coursera.org/learn/differential-equations-part-iii-systems-of-equations)
 6. [Mathematics for Engineers Specialization](https://www.coursera.org/specializations/mathematics-engineers)
+
+## Applications
+
+1. [Infectious Disease Modelling Specialization](https://www.coursera.org/specializations/infectious-disease-modelling)
+2. [Systems Biology and Biotechnology Specialization](https://www.coursera.org/specializations/systems-biology)
+3. [Simulation and modeling of natural processes](https://www.coursera.org/learn/modeling-simulation-natural-processes)
+5. [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
+6. [GeorgetownX: Mathematical and Computational Methods](https://www.edx.org/learn/math/georgetown-university-mathematical-and-computational-methods?webview=false&campaign=Mathematical+and+Computational+Methods&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fdifferential-equations)

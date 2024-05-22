@@ -18,3 +18,4 @@
 1. [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)
 2. [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)
 3. [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)
+4. [Foundations of Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/boulder-data-structures-algorithms)

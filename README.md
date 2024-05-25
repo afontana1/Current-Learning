@@ -4,7 +4,7 @@
 
 1. [Software Engineering Institute](https://www.sei.cmu.edu/)
 2. [NIH Human Microbiome Project](https://hmpdacc.org/)
-3. [Complexity Economics](https://www.oxfordmartin.ox.ac.uk/programmes/economics) and [Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)
+3. [Complexity Economics](https://www.oxfordmartin.ox.ac.uk/programmes/economics), [Complexity Studies](https://complexsystemsupenn.com/), [Network Science](https://www.networkscienceinstitute.org/), and [Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)
     * [J. Doyne Farmer](http://www.doynefarmer.com/)
     * [W. Brian Arthur](https://en.wikipedia.org/wiki/W._Brian_Arthur)
     * [Robert Axtell](https://css1.gmu.edu/~axtell/Rob/Home.html)
@@ -17,13 +17,8 @@
     * [Econophysics](https://en.wikipedia.org/wiki/Econophysics)
     * [Aaron Clauset](https://aaronclauset.github.io/)
     * [Omar A. Guerrero (Alan Turing Institute)](https://oguerr.com/)
-4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
-    * [Radhika Nagpal](https://www.radhikanagpal.org/) at [SSR Princeton](https://ssr.princeton.edu/)
-    * [MIT Center for Bits and Atoms](http://cba.mit.edu/)
-    * [Simon Garnier](https://people.njit.edu/profile/garnier) and [Swarm Lab](https://www.theswarmlab.com/)
-    * [Swarm Intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence) & [Collective Intelligence](https://en.wikipedia.org/wiki/Collective_intelligence) & [Bio Inspired Computing](https://en.wikipedia.org/wiki/Bio-inspired_computing) & [Evolutionary algorithms](https://en.wikipedia.org/wiki/Category:Evolutionary_algorithms)
-5. [Complexity Studies](https://complexsystemsupenn.com/) and [Network Science](https://www.networkscienceinstitute.org/)
     * [Imperial College Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science/)
+    * [Center for Social Complexity](https://complexsystemstheory.net/centre-for-social-complexity-gmu/)
     * [Professor Henrik Jeldtoft Jensen](https://www.ma.imperial.ac.uk/~hjjens/)
     * [Santa Fe Institute Resources](https://www.complexityexplorer.org/explore/resources)
     * [Neil Theise](https://www.neiltheiseofficial.com/)
@@ -31,6 +26,16 @@
     * [Stuart Kauffman](https://scholar.google.com/citations?user=yoPM0F8AAAAJ&hl=en)
     * [Geoffrey West](https://www.santafe.edu/people/profile/geoffrey-west)
     * [Raissa D'Souza](https://scholar.google.com/citations?user=jM23vRsKxuIC&hl=en)
+    * [Herbert Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon)
+4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
+    * [Radhika Nagpal](https://www.radhikanagpal.org/) at [SSR Princeton](https://ssr.princeton.edu/)
+    * [MIT Center for Bits and Atoms](http://cba.mit.edu/)
+    * [Simon Garnier](https://people.njit.edu/profile/garnier) and [Swarm Lab](https://www.theswarmlab.com/)
+    * [Swarm Intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence) & [Collective Intelligence](https://en.wikipedia.org/wiki/Collective_intelligence) & [Bio Inspired Computing](https://en.wikipedia.org/wiki/Bio-inspired_computing) & [Evolutionary algorithms](https://en.wikipedia.org/wiki/Category:Evolutionary_algorithms)
+5. [Multi Agent Systems](https://en.wikipedia.org/wiki/Category:Multi-agent_systems) and [Game Theoretic Concepts](https://en.wikipedia.org/wiki/Category:Game_theory)
+    * [Prof. Dr. Felix Brandt](https://www.cs.cit.tum.de/en/dss/brandt/) and [Computational Social Choice
+](https://youtube.com/playlist?list=PLOfTMPqb4h4YpejIw7acMsdUnBm51a-FD&si=XztGrBLGOVUHST7q)
+    * [Tim Roughgarden](https://timroughgarden.org/) and [Algorithmic Game Theory](https://timroughgarden.org/f13/f13.html)
 6. [UCI Hot Cognition Laboratory](https://sites.uci.edu/peterdittolab/), [Questions of Ethics](https://www.ethicscenter.uci.edu/index.php), and [Peter Ditto's](https://scholar.google.com/citations?user=Lv4KzjIAAAAJ&hl=en) Work on Motivated Reasoning
 7. Dr. Ben Goldacre's Investigation and [Simine Vazire's](https://www.simine.com/) into [badscience](https://www.badscience.net/) and the Replication Crisis. Ways of Improving research reliability:
     * [datacarpentry.org](https://datacarpentry.org/)
@@ -58,10 +63,6 @@
     * [Game Theory](https://en.wikipedia.org/wiki/Category:Game_theory)
 12. [Ray Jackendoff](https://en.wikipedia.org/wiki/Ray_Jackendoff) from the [Center for Cognitive Linguistics](https://sites.tufts.edu/cogstud/) and [George Lakoff](https://george-lakoff.com/),  [Cognitive Science](https://en.wikipedia.org/wiki/Category:Cognitive_science) and [Kenneth D. Forbus](https://users.cs.northwestern.edu/~forbus/) and [Cognitive Modeling](https://en.wikipedia.org/wiki/Cognitive_model)
 13. [Extended Evolutionary Synthesis](https://extendedevolutionarysynthesis.com/)
-14. [Multi Agent Systems](https://en.wikipedia.org/wiki/Category:Multi-agent_systems) and [Game Theoretic Concepts](https://en.wikipedia.org/wiki/Category:Game_theory)
-    * [Prof. Dr. Felix Brandt](https://www.cs.cit.tum.de/en/dss/brandt/) and [Computational Social Choice
-](https://youtube.com/playlist?list=PLOfTMPqb4h4YpejIw7acMsdUnBm51a-FD&si=XztGrBLGOVUHST7q)
-    * [Tim Roughgarden](https://timroughgarden.org/) and [Algorithmic Game Theory](https://timroughgarden.org/f13/f13.html)
 
 ## Online University Programs
 

@@ -1,5 +1,6 @@
 ## Core Computer Science
 
+- [How To Design Programs](https://htdp.org/2023-8-14/Book/index.html)
 - [Computational Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 - [Stanford CS109 Introduction to Probability for Computer Scientists I 2022 I Chris Piech](https://youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&si=jSzy79oYpZboJzdc) [CS 109](https://web.stanford.edu/class/archive/cs/cs109/cs109.1232/)
 

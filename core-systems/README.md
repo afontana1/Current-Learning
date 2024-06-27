@@ -16,6 +16,3 @@
 2. [Introduction to Model-Based Systems Engineering](https://www.coursera.org/learn/introduction-mbse)
 3. [MBSE: Model-Based Systems Engineering](https://www.coursera.org/learn/mbse)
 4. [ChalmersX: Model-Based Automotive Systems Engineering](https://www.edx.org/learn/engineering/chalmers-university-of-technology-model-based-automotive-systems-engineering)
-5. [Model-Based Systems Engineering - MBSE](https://www.edx.org/certificates/professional-certificate/israelx-model-based-systems-engineering)
-6. [Modeling of Feedback Systems](https://www.coursera.org/learn/modeling-feedback-systems)
-7. [Introduction to Complexity Science](https://www.coursera.org/learn/complexity)

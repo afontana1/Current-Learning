@@ -1,9 +1,5 @@
 ## Core Computer Science
 
-- [How To Design Programs](https://htdp.org/2023-8-14/Book/index.html)
-- [Computational Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-- [Stanford CS109 Introduction to Probability for Computer Scientists I 2022 I Chris Piech](https://youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&si=jSzy79oYpZboJzdc) [CS 109](https://web.stanford.edu/class/archive/cs/cs109/cs109.1232/)
-
 1. [Foundations of Computer Science University of Toronto](https://www.teach.cs.toronto.edu/~csc110y/fall/notes/)
 2. [Introduction to Computer Science](https://introcs.cs.princeton.edu/java/home/)
 3. [Algorithm Design Manual](https://algorist.com/)
@@ -13,10 +9,9 @@
 7. [Algorithm Design and Analysis: Biologically Inspired Algorithms](https://youtube.com/playlist?list=PLVLAu9B7VtkbUfGx6XR-r-UFIwjMqSlzv&si=52c3uHCX8N6AEqOg)
 8. [Evolutionary Algorithms (EAs)](https://youtube.com/playlist?list=PLO-6jspot8AI6jl34ITlPJgVITwdftVnf&si=_Tz9cY5NRxrs4RGd)
 9. [MIT 6.006 Introduction to Algorithms, Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&si=L5G87z-mKMQXis2_)
+10. [Computational Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+11. [How To Design Programs](https://htdp.org/2023-8-14/Book/index.html)
 
 ## Courses
 
-1. [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)
-2. [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)
-3. [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)
-4. [Foundations of Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/boulder-data-structures-algorithms)
+1. [Foundations of Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/boulder-data-structures-algorithms)
